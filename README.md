@@ -5,12 +5,16 @@
 - A
 
 Assoalho: é um pavimento de madeira; assoalho
+
 Açoite: é um tipo de chicote de couro que pode ser usado para castigar seres
-Aguçado: é algo agudo ou intenso 
+
+Aguçado: é algo agudo ou intenso
+
 Aborrecido: é algo que está chateado, triste ou descontente 
 
-B-
-Batizado: é aquele que levou a benção de um papa 
+- B
+
+**Batizado**: é aquele que levou a benção de um papa 
 
 C-
 Coração: é um órgão do ser humano extremamente importante 
