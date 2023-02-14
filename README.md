@@ -3,6 +3,7 @@
           Feito por : Rafael Ferreira R. de Araújo
 
 - A
+
 Assoalho: é um pavimento de madeira; assoalho
 Açoite: é um tipo de chicote de couro que pode ser usado para castigar seres
 Aguçado: é algo agudo ou intenso 
