@@ -85,7 +85,7 @@ Noite: é um período de tempo onde o sol fica abaixo do horizonte
 
 **Olho**: é um orgão de visão dos animais e do homem
 
--P
+- P
 
 Prudente: é uma pessoa que é capaz de evitar perigos desnecessário sendo de modo cauteloso
 
